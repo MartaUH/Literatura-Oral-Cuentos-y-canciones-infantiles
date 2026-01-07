@@ -2,7 +2,7 @@
 ## Narrativa, Cancionero, retahílas y rimas infantiles
 
 ### 📝 Descripción del Proyecto
-Este repositorio forma parte de una investigación dedicada a la recopilación, preservación y análisis de la literatura oral infantil en el ámbito de España e Hispanoamérica. El objetivo principal es documentar la riqueza cultural de las rimas, retahílas y cuentos que han pasado de generación en generación, utilizando herramientas de **Humanidades Digitales**.
+Este repositorio forma parte de una investigación dedicada a la recopilación, preservación y análisis de la literatura oral infantil en el ámbito de España, Hispanoamérica y otros lugares de habla hispana. El objetivo principal es documentar la riqueza cultural de las rimas, retahílas y cuentos que han pasado de generación en generación, utilizando herramientas de **Humanidades Digitales**.
 
 ### 🔍 Áreas de Estudio
 * **Cancionero Infantil:** Nanas, canciones de corro y romances adaptados.
