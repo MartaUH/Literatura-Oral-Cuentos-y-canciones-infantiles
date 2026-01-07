@@ -20,11 +20,11 @@ Para este estudio se emplean diversas tecnologías de análisis lingüístico y 
 * `/corpus`: Transcripciones de cuentos y canciones en formato .txt y .xml.
 * `/datos`: Archivos .csv procesados para análisis en Gephi (Source/Target).
 * `/recursos`: Enlaces a archivos orales y bibliografía de referencia.
-* 
+  
 ### 📚 Repositorio Original
 Los textos fuente de esta investigación han sido recopilados por el autor y se encuentran depositados en el **Corpus de Literatura Oral (Universidad de Jaén)**:
 * [Acceso al Archivo de Recopilador 655](https://corpusdeliteraturaoral.ujaen.es/farchivo?f%5B0%5D=recopiladores%3A655)
-* 
+
 ### 🤝 Colaboración
 Este es un proyecto abierto a la comunidad académica. Si deseas aportar variantes de cuentos o canciones de tu región, siéntete libre de hacer un *Fork* o abrir un *Issue*.
 
